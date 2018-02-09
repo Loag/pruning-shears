@@ -1,0 +1,19 @@
+{
+  "name": "pruning-shears",
+  "version": "1.0.0",
+  "description": "easily remove unwanted properties on objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immexerxez/pruning-shears.git"
+  },
+  "author": "immexerxez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immexerxez/pruning-shears/issues"
+  },
+  "homepage": "https://github.com/immexerxez/pruning-shears#readme"
+}
